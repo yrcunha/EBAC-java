@@ -5,14 +5,14 @@ public class Main {
     int value = 0;
     System.out.println("Informe quatro valores para cálculo da média");
     Scanner cmd = new Scanner(System.in);
-    System.out.printf("Informe o primeiro valor: ");
+    System.out.print("Informe o primeiro valor: ");
     value += cmd.nextInt();
-    System.out.printf("Informe o segundo valor: ");
+    System.out.print("Informe o segundo valor: ");
     value += cmd.nextInt();
-    System.out.printf("Informe o terceiro valor: ");
+    System.out.print("Informe o terceiro valor: ");
     value += cmd.nextInt();
-    System.out.printf("Informe o quarto valor: ");
+    System.out.print("Informe o quarto valor: ");
     value += cmd.nextInt();
-    System.out.printf("A média é igual a: " + value/4);
+    System.out.print("A média é igual a: " + value/4);
   }
 }
