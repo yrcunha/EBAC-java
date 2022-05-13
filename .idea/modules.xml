@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/md5/md5.iml" filepath="$PROJECT_DIR$/md5/md5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/md6/md6.iml" filepath="$PROJECT_DIR$/md6/md6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tarefas-ebac-Rodrigo-Pires.iml" filepath="$PROJECT_DIR$/tarefas-ebac-Rodrigo-Pires.iml" />
+    </modules>
+  </component>
+</project>
