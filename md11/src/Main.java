@@ -8,7 +8,6 @@ public class Main {
     boolean comando = true;
     ArrayList<Pessoas> homens = new ArrayList<>();
     ArrayList<Pessoas> mulheres = new ArrayList<>();
-    System.out.println("Escreva nome e sexo (M ou F) separados por virgula");
     while(comando) {
       Scanner cmd = new Scanner(System.in);
       System.out.print("Qual a nome: ");
